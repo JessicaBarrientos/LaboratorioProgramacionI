@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Universidad\2023\Segundo ciclo\Lab Programación\SEMANA_7_LABORATORIO_1097723_JESSICABARRIENTOS\L4-JVBM-1097723\L4-JVBM-1097723\obj\Debug\net6.0\L4-JVBM-1097723.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Universidad\2023\Segundo ciclo\Lab Programación\SEMANA_7_LABORATORIO_1097723_JESSICABARRIENTOS\L4-JVBM-1097723\L4-JVBM-1097723\obj\Debug\net6.0\L4-JVBM-1097723.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Universidad\2023\Segundo ciclo\Lab Programación\SEMANA_7_LABORATORIO_1097723_JESSICABARRIENTOS\L4-JVBM-1097723\L4-JVBM-1097723\obj\Debug\net6.0\L4-JVBM-1097723.AssemblyInfo.cs
+C:\Users\HP\Desktop\Universidad\2023\Segundo ciclo\Lab Programación\SEMANA_7_LABORATORIO_1097723_JESSICABARRIENTOS\L4-JVBM-1097723\L4-JVBM-1097723\obj\Debug\net6.0\L4-JVBM-1097723.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Universidad\2023\Segundo ciclo\Lab Programación\SEMANA_7_LABORATORIO_1097723_JESSICABARRIENTOS\L4-JVBM-1097723\L4-JVBM-1097723\bin\Debug\net6.0\L4-JVBM-1097723.exe
+C:\Users\HP\Desktop\Universidad\2023\Segundo ciclo\Lab Programación\SEMANA_7_LABORATORIO_1097723_JESSICABARRIENTOS\L4-JVBM-1097723\L4-JVBM-1097723\bin\Debug\net6.0\L4-JVBM-1097723.deps.json
+C:\Users\HP\Desktop\Universidad\2023\Segundo ciclo\Lab Programación\SEMANA_7_LABORATORIO_1097723_JESSICABARRIENTOS\L4-JVBM-1097723\L4-JVBM-1097723\bin\Debug\net6.0\L4-JVBM-1097723.runtimeconfig.json
+C:\Users\HP\Desktop\Universidad\2023\Segundo ciclo\Lab Programación\SEMANA_7_LABORATORIO_1097723_JESSICABARRIENTOS\L4-JVBM-1097723\L4-JVBM-1097723\bin\Debug\net6.0\L4-JVBM-1097723.dll
+C:\Users\HP\Desktop\Universidad\2023\Segundo ciclo\Lab Programación\SEMANA_7_LABORATORIO_1097723_JESSICABARRIENTOS\L4-JVBM-1097723\L4-JVBM-1097723\bin\Debug\net6.0\L4-JVBM-1097723.pdb
+C:\Users\HP\Desktop\Universidad\2023\Segundo ciclo\Lab Programación\SEMANA_7_LABORATORIO_1097723_JESSICABARRIENTOS\L4-JVBM-1097723\L4-JVBM-1097723\obj\Debug\net6.0\L4-JVBM-1097723.dll
+C:\Users\HP\Desktop\Universidad\2023\Segundo ciclo\Lab Programación\SEMANA_7_LABORATORIO_1097723_JESSICABARRIENTOS\L4-JVBM-1097723\L4-JVBM-1097723\obj\Debug\net6.0\refint\L4-JVBM-1097723.dll
+C:\Users\HP\Desktop\Universidad\2023\Segundo ciclo\Lab Programación\SEMANA_7_LABORATORIO_1097723_JESSICABARRIENTOS\L4-JVBM-1097723\L4-JVBM-1097723\obj\Debug\net6.0\L4-JVBM-1097723.pdb
+C:\Users\HP\Desktop\Universidad\2023\Segundo ciclo\Lab Programación\SEMANA_7_LABORATORIO_1097723_JESSICABARRIENTOS\L4-JVBM-1097723\L4-JVBM-1097723\obj\Debug\net6.0\L4-JVBM-1097723.genruntimeconfig.cache
+C:\Users\HP\Desktop\Universidad\2023\Segundo ciclo\Lab Programación\SEMANA_7_LABORATORIO_1097723_JESSICABARRIENTOS\L4-JVBM-1097723\L4-JVBM-1097723\obj\Debug\net6.0\ref\L4-JVBM-1097723.dll
