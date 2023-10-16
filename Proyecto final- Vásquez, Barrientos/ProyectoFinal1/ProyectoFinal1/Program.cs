@@ -1,13 +1,13 @@
 ﻿using System;
 
-//Nadia Vásquez- 1140023
-//Jessica Barrientos- 1097723
 class Program
 {
     static void Main()
     {
         decimal totalGasto = 0;
         int tiempoTotalViajando = 0;
+        int estacionPartida = 0; 
+        bool primerViaje = true; 
 
         Console.WriteLine("Bienvenido al sistema de Trasmetro.");
         Console.WriteLine("\nPrevio a comenzar, le recordamos las opciones de las rutas: ");
@@ -16,10 +16,8 @@ class Program
         Console.WriteLine("Estación Don Bosco: 71");
         Console.WriteLine("Estación Plaza Municipal: 82");
 
-
         do
         {
-            int estacionPartida;
             int estacionDestino;
             int edad;
             bool estaEmbarazada;
@@ -27,8 +25,12 @@ class Program
 
             Console.WriteLine("\nPor favor, ingrese los detalles de su viaje:");
 
-            Console.Write("Código de la estación de partida: ");
-            estacionPartida = int.Parse(Console.ReadLine());
+            if (primerViaje)
+            {
+                Console.Write("Código de la estación de partida: ");
+                estacionPartida = int.Parse(Console.ReadLine());
+                primerViaje = false;
+            }
 
             Console.Write("Código de la estación de destino: ");
             estacionDestino = int.Parse(Console.ReadLine());
@@ -48,7 +50,6 @@ class Program
             Console.Write("¿Está embarazada? (Sí/No): ");
             estaEmbarazada = Console.ReadLine().Equals("Sí", StringComparison.OrdinalIgnoreCase);
 
-
             Console.Write("¿Viaja con un niño menor de 3 años? (Sí/No): ");
             viajaConNino = Console.ReadLine().Equals("Sí", StringComparison.OrdinalIgnoreCase);
 
@@ -65,6 +66,8 @@ class Program
             Console.WriteLine("Tiempo estimado de viaje: " + tiempoViaje + " minutos");
             Console.WriteLine("Precio del boleto: Q" + precio);
 
+            estacionPartida = estacionDestino;
+
             Console.Write("¿Desea realizar otro viaje? (Sí/No): ");
         } while (Console.ReadLine().Equals("Sí", StringComparison.OrdinalIgnoreCase));
 
@@ -72,8 +75,7 @@ class Program
         Console.WriteLine("Tiempo total viajando: " + tiempoTotalViajando + " minutos");
         Console.WriteLine("Total gastado en boletos: Q" + totalGasto);
     }
-
-    static bool ExisteRuta(int estacionPartida, int estacionDestino)
+static bool ExisteRuta(int estacionPartida, int estacionDestino)
     {
         int[,] rutas = {
             { 51, 61 }, { 51, 72 }, { 71, 82 }, { 61, 51 }, { 82, 51 }
